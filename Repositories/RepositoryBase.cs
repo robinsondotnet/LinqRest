@@ -7,6 +7,6 @@ namespace LinqRest.Repositories
 {
     public abstract class RepositoryBase
     {
-        public abstract IEnumerable<Documento> getAll();
+        //public abstract IEnumerable<T> getAll();
     }
 }
